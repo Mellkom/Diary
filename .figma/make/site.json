@@ -1,0 +1,10 @@
+{
+  "description": "An interactive mobile scrapbook that lets users create and share personalized digital photo albums as heartfelt birthday gifts with handwritten notes and memories.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
